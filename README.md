@@ -14,3 +14,5 @@ This script is not meant to replace any tools. Rather, it’s more designed for 
 response framework. Ideally the forensic analyst would take a full disk image, a full memory image, and bring both into a Forensic
 Platform for investigation using multiple tools. So the use of this tool is to help the forensic examiner determine if the effort
 and time needed matches the initial information found. 
+******11-27-18 --update****
+Still coding..
