@@ -1,3 +1,4 @@
+#designed by Kenneth Ray 
 #variables passed to this functon comment after testing
 #####################################################
 $myworkingDirectory = "<define your working directory here where the reg files are>"
